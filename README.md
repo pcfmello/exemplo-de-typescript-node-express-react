@@ -18,7 +18,7 @@ Instale as dependências do frontend:
 
 
 Inicie o projeto:  
-Backend: `$yarn dev:server`  
+Backend: `$ yarn dev:server`  
 Frontend: `$ yarn start`
 
 Abra o link [http://localhost:3000](http://localhost:3000) para acessar o projeto.
