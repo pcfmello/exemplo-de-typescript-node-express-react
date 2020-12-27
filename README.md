@@ -7,17 +7,17 @@ Tecnologias utilizadas:
 * TypeScript
 
 ## Rodando o projeto
-Instale as dependncias do backend:
+Instale as dependncias do backend:  
 `$ cd backend`  
 `$ yarn install`
 
 
-Instale as dependências do frontend:
+Instale as dependências do frontend:  
 `$ cd frontend`  
 `$ yarn install`
 
 
-Inicie o projeto:
+Inicie o projeto:  
 Backend: `$yarn dev:server`  
 Frontend: `$ yarn start`
 
