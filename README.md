@@ -12,10 +12,12 @@ Instale as dependncias do backend:
 `$ cd backend`
 `$ yarn install`
 
+
 Instale as dependências do frontend:
 
 `$ cd frontend`
 `$ yarn install`
+
 
 Inicie o projeto:
 
